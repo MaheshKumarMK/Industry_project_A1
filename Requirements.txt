@@ -1,3 +1,2 @@
 Python
-import regex
-git
+import regex or re
