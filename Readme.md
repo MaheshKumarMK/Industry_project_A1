@@ -1,0 +1,1 @@
+This Python file is to slice the valid email
