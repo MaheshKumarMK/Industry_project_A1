@@ -1,4 +1,4 @@
-import re
+import regex
 str1= input("Enter a valid email ID: ")
 pattern='^[a-zAA-Z0-9-_]+@[a-zA-Z0-9]+.[a-zA-Z]{1,3}$'
 if re.match(pattern, str1):
