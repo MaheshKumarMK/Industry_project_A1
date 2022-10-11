@@ -1,2 +1,2 @@
 Python
-import regex or re
+regex
