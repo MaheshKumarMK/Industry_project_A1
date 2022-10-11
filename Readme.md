@@ -1,1 +1,1 @@
-This Python application file is to slice the valid email and to produce USER and DOMAIN name
+This Python application file is to slice the valid email and to produce USER and DOMAIN name.
