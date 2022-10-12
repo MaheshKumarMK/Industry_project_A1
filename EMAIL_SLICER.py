@@ -7,7 +7,7 @@ def email_slicer():
         username, domain =res[0], res[1].split('.')[0]
         print("Your username is {} and Domain is {}".format(username, domain))
     else:
-        print("Enter a valid email ID and try again!!")
+        print("Enter a valid email ID")
 
 
         
