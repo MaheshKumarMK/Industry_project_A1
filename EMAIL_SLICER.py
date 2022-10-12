@@ -1,4 +1,4 @@
-def email_slicer:
+def email_slicer():
     import regex as re
     str1= input("Enter a valid email ID: ")
     pattern='^[a-zAA-Z0-9-_]+@[a-zA-Z0-9]+.[a-zA-Z]{1,3}$'
@@ -8,8 +8,6 @@ def email_slicer:
         print("Your username is {} and Domain is {}".format(username, domain))
     else:
         print("Enter a valid email ID and try again!!")
-
-
 
 
         
